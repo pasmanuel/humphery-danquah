@@ -241,6 +241,10 @@ span{
     gap: 50px;
     padding: 0 2rem 0 2rem;
 }
+.team{
+    border-radius: 50%;
+    height: 100px;
+}
 .testimonial-div > div{
     display: flex;
     /* justify-content: center; */
