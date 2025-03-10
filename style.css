@@ -256,6 +256,7 @@ span{
     display: flex;
     position: relative;
     height: 400px;
+    width: 100%;
     
 }
 .footer > div{
