@@ -233,7 +233,7 @@ span{
 }
 .name{
     text-align: center;
-    color: white;
+    color: blue;
 }
 .testimonial-div{
     display: flex;
@@ -245,6 +245,7 @@ span{
 .team{
     border-radius: 50%;
     height: 100px;
+    gap: 30px;
 }
 .testimonial-div > div{
     display: flex;
