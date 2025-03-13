@@ -231,9 +231,14 @@ span{
 .skills-menu-div div h5{
     font-size: 20px;
 }
+.web{
+    color: black;
+    text-align: center;
+    margin: 20px;
+}
 .name{
     text-align: center;
-    color: blue;
+    color: black;
 }
 .testimonial-div{
     display: flex;
@@ -245,7 +250,7 @@ span{
 .team{
     border-radius: 50%;
     height: 100px;
-    gap: 30px;
+    padding: 0.4rem;
 }
 .testimonial-div > div{
     display: flex;
@@ -281,6 +286,10 @@ form{
     background-color:  blue;
     color: white;
     border: none;
+}
+.enter{
+    color: white;
+    text-align: center;
 }
 
 
